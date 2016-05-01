@@ -1,0 +1,8 @@
+body {
+    background-color: white;
+}
+
+fieldset {
+    border: 1px ridge silver;
+    width: 250px;
+}

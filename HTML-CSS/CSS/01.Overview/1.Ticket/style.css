@@ -1,0 +1,46 @@
+body {
+  background-color: #595959
+}
+td{
+  margin-right: 20px;
+  padding:0 10px;
+  padding-top: 13px;
+}
+td + #noactive{
+  font-weight: bold;
+  padding-top: 0px;
+}
+.ticket{
+  font-size: 18px;
+  color: #c2c2c2
+}
+.left{
+  font-style: italic;
+  color: #ececec
+}
+#name{
+  color: #e0d383
+}
+#noactive{
+  color: #f10814
+}
+#email{
+  color: #e0d383
+}
+#time{
+  color: #98a6a9
+}
+#locked{
+  color: #98a6a9
+}
+#link{
+  color: #e0d383
+}
+a{
+  text-decoration: none;
+  color: #e0d383
+}
+#notanswered{
+  font-weight: bold;
+  color: #dd6d23
+}

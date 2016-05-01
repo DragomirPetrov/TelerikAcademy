@@ -1,0 +1,48 @@
+body{
+  font-family: Calibri;
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+}
+table{
+  border-spacing: 0;
+  padding: 0;
+}
+table td{
+  padding: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 30px;
+  border-bottom: 1px solid #ececd8;
+  border-left: 1px solid #9ca49f;
+}
+thead{
+  text-align: left;
+  padding: 5px;
+  color: white;
+  background-color: #52b506
+}
+tbody tr {
+  background-color: white
+}
+tbody tr:nth-of-type(2n){
+  background-color: #ececd8
+}
+.germany{
+    background-image:url('./germany.jpg');
+    background-repeat: no-repeat;
+    background-position: 2px 5px;
+    padding-left: 26px;
+}
+.mexico{
+    background-image:url('./mexico.jpg');
+    background-repeat: no-repeat;
+    background-position: 2px 5px;
+    padding-left: 26px;
+}
+.uk{
+    background-image:url('./uk.jpg');
+    background-repeat: no-repeat;
+    background-position: 2px 5px;
+    padding-left: 26px;
+}
