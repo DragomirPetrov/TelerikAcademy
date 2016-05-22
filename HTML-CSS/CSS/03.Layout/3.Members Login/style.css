@@ -1,0 +1,65 @@
+header{
+    background-color: #393939;
+    height: 100px;
+}
+header div{
+    display: inline-block;
+}
+.img{
+    margin-left: 6px;
+    margin-top: 6px;
+}
+form{
+    display: inline-block;
+}
+.member{
+    margin-left: 270px;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    vertical-align: 31px;
+}
+.name{
+    margin-left: 10px;
+    vertical-align: 33px;
+    height: 20px;
+}
+.email{
+    margin-left: 10px;
+    vertical-align: 33px;
+    height: 20px;
+}
+.button{
+    vertical-align: 23px;
+    margin-left: 10px;
+}
+body{
+    background-color: #3b3b3b;
+}
+h1{
+    font-size: 30px;
+    padding-top: 10px;
+    margin-left: 8px;
+    color: #f3d825;
+}
+h2{
+    font-size: 16px;
+}
+.content{
+    margin-left: 10px;
+    color: #9d9d9d;
+    font-size: 20px;
+}
+span{
+    color: #f3d825;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: #9d9d9d;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 250px;
+}

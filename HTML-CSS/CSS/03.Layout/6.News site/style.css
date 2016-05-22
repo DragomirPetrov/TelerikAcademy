@@ -1,0 +1,66 @@
+body{
+    background-color: #1e3741;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: #91adac;
+}
+a:hover{
+    text-decoration: underline;
+}
+ul{
+    padding-left: 0;
+}
+ul li{
+    display: inline-block;
+    background-color: #4b5f67;
+    padding: 8px;
+    margin-left: -2px;
+}
+ul li:active{
+    background-color: #4d6974;
+}
+ul li.selected{
+    background-color: inherit;
+}
+ul li.selected a{
+    color: white;
+}
+section{
+    padding-top: 6px;
+    float: left;
+}
+section p{
+    padding: 4px 6px;
+    color: #a9b4ab;
+}
+section div{
+    width: 300px;
+}
+section div p a:hover{
+    text-decoration: none;
+}
+section div p:hover{
+    background-color: #00968c;
+}
+.first p{
+    color: white;
+    background-color: #00968c;
+    display: inline;
+    padding: 10px 66px 10px 8px;
+}
+.line{
+    background-color: #a9b4ab;
+    height: 1px;
+}
+aside{
+    float: left;
+}
+iframe{
+    width:440px;
+    height: 337px;
+    margin-top: -10px;
+    border: 0;
+    padding-top: 6px;
+}
