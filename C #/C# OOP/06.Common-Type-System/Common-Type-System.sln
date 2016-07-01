@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Student", "01.Student", "{A9AD9337-6FB4-4262-9D0C-1854F90E01EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Student\Student.csproj", "{4078475F-9F59-4AD0-9AD7-A991136BAF96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Person", "02.Person", "{926B42E7-8EF8-4928-9B1F-19242DBCCF15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{FADEF211-90CD-4DF3-BFE8-AF325084EB37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Array64Bit", "03.Array64Bit", "{E204CAAB-9DC4-4C70-BD56-51055BCA6C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array64Bit", "Array64Bit\Array64Bit.csproj", "{35F406AB-F80F-4E21-95B7-489B1C907010}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.BinarySearchTree", "04.BinarySearchTree", "{DE881E09-5A53-4476-81F6-676CFE51E83C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{93CE45A3-86CE-4BE8-96FB-3EE3DF05F2BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4078475F-9F59-4AD0-9AD7-A991136BAF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4078475F-9F59-4AD0-9AD7-A991136BAF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4078475F-9F59-4AD0-9AD7-A991136BAF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4078475F-9F59-4AD0-9AD7-A991136BAF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADEF211-90CD-4DF3-BFE8-AF325084EB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADEF211-90CD-4DF3-BFE8-AF325084EB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADEF211-90CD-4DF3-BFE8-AF325084EB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADEF211-90CD-4DF3-BFE8-AF325084EB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F406AB-F80F-4E21-95B7-489B1C907010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F406AB-F80F-4E21-95B7-489B1C907010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F406AB-F80F-4E21-95B7-489B1C907010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F406AB-F80F-4E21-95B7-489B1C907010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CE45A3-86CE-4BE8-96FB-3EE3DF05F2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CE45A3-86CE-4BE8-96FB-3EE3DF05F2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CE45A3-86CE-4BE8-96FB-3EE3DF05F2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CE45A3-86CE-4BE8-96FB-3EE3DF05F2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4078475F-9F59-4AD0-9AD7-A991136BAF96} = {A9AD9337-6FB4-4262-9D0C-1854F90E01EF}
+		{FADEF211-90CD-4DF3-BFE8-AF325084EB37} = {926B42E7-8EF8-4928-9B1F-19242DBCCF15}
+		{35F406AB-F80F-4E21-95B7-489B1C907010} = {E204CAAB-9DC4-4C70-BD56-51055BCA6C64}
+		{93CE45A3-86CE-4BE8-96FB-3EE3DF05F2BE} = {DE881E09-5A53-4476-81F6-676CFE51E83C}
+	EndGlobalSection
+EndGlobal
